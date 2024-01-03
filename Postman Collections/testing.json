@@ -17,5 +17,18 @@
 			},
 			"response": []
 		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": {
+			"token": "{{token}}"
+		}
+	},
+	"variable": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "default"
+		}
 	]
 }
