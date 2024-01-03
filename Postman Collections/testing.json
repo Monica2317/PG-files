@@ -23,7 +23,7 @@
 			"response": [
 				{
 					"id": "7f2b0324-d01e-427a-8d73-1b9f939ea941",
-					"name": "New Request",
+					"name": "userinfo",
 					"originalRequest": {
 						"method": "GET",
 						"header": [],
